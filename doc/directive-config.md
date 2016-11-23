@@ -194,12 +194,12 @@ The following descriptions are for the JavaScript configs. If you are using the 
 
 #### <a name="gridCellBackgroundColor"/>`gridCellBackgroundColor` ####
 - **type:** String with Semicolon Separated Array of Floats **or** an Array of Floats
-- **default:** `"75;77;81;1.0"` (same as `[75, 77, 81, 1.0]`)
+- **default:** `"100;106;116;0.8"` (same as `[100, 106, 116, 0.8]`)
 - The background color for the `grid` operation's cells as an array in the form `"Red;Green;Blue;Alpha"` or `[Red, Green, Blue, Alpha]` where `Red`, `Green`, and `Blue` are numbers between `0.0` and `255.0` and `Alpha` is a number between `0.0` and `1.0`.
 
 #### <a name="gridCellSelectedColor"/>`gridCellSelectedColor` ####
 - **type:** String with Semicolon Separated Array of Floats **or** an Array of Floats
-- **default:** `"75;77;81;1.0"` (same as `[75, 77, 81, 1.0]`)
+- **default:** `"50;53;58;0.8"` (same as `[50, 53, 58, 0.8]`)
 - The selected color for the `grid` operation's cells as an array in the form `"Red;Green;Blue;Alpha"` or `[Red, Green, Blue, Alpha]` where `Red`, `Green`, and `Blue` are numbers between `0.0` and `255.0` and `Alpha` is a number between `0.0` and `1.0`.
 
 #### <a name="gridCellRoundedCornerSize"/>`gridCellRoundedCornerSize` ####
