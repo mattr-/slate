@@ -44,5 +44,8 @@ bind down:cmd     focus down
 bind up:cmd;alt   focus behind
 bind down:cmd;alt focus behind
 
+# Grid Bindings
+bind space:cmd;shift grid padding:1 1920x1080:6,6 1440x900:6,6 2560x1600:6,6 2880x1800:6,6
+
 # Window Hints
 bind esc:cmd hint
