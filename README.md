@@ -1,3 +1,7 @@
+# WARNING #
+
+This repository is unmaintained and unsupported as of May 2017. I appreciate you using this extension of @jigish's original work. If you need a replacement, Hammerspoon is the suggested replacement.
+
 # About Slate #
 
 Slate is a window management application similar to Divvy and SizeUp (except better and free!). Originally written to replace them due to some limitations in how each work, it attempts to overcome them by simply being extremely configurable. As a result, it may be a bit daunting to get configured, but once it is done, the benefit is huge.
