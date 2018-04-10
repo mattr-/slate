@@ -1,6 +1,6 @@
 # WARNING #
 
-This repository is unmaintained and unsupported as of May 2017. I appreciate you using this extension of @jigish's original work. If you need a replacement, Hammerspoon is the suggested replacement.
+This repository is unmaintained and unsupported as of May 2017. I appreciate you using this extension of @jigish's original work. If you need a replacement, [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) is the suggested replacement.
 
 # About Slate #
 
